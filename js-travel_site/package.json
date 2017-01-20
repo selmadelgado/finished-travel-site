@@ -9,6 +9,8 @@
     "picturefill": "^3.0.2",
     "waypoints": "^4.0.1"
   },
+  
+  
   "devDependencies": {
     "autoprefixer": "^6.6.1",
     "babel-core": "^6.21.0",

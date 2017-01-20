@@ -33,10 +33,7 @@
     transform: translateX(-50%) scale(.75);
     transform-origin: 50% 0;
     transition: transform .35s ease-out;
-    
-    
-    
-      
+       
     
     @mixin atMedium {
       left: auto;
